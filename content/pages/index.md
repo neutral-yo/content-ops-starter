@@ -320,7 +320,7 @@ sections:
         textAlign: left
   - title:
       text: Social Media Management
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Increase your reach
     text: >
